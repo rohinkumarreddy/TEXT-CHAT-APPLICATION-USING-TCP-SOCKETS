@@ -1,0 +1,10 @@
+[LOGIN:SUCCESS]
+[LOGIN:END]
+[REFRESH:SUCCESS]
+[REFRESH:END]
+[LIST:SUCCESS]
+1    stones.cse.buffalo.edu             128.205.36.46       5454    
+2    underground.cse.buffalo.edu        128.205.36.36       6565    
+3    embankment.cse.buffalo.edu         128.205.36.35       7676    
+4    highgate.cse.buffalo.edu           128.205.36.33       8585    
+[LIST:END]

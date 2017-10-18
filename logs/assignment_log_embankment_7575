@@ -1,0 +1,24 @@
+[LOGIN:SUCCESS]
+[LOGIN:END]
+[LISt:ERROR]
+[LISt:END]
+[LIST:SUCCESS]
+1    highgate.cse.buffalo.edu           128.205.36.33       5454    
+2    stones.cse.buffalo.edu             128.205.36.46       6565    
+3    embankment.cse.buffalo.edu         128.205.36.35       7575    
+4    underground.cse.buffalo.edu        128.205.36.36       8585    
+[LIST:END]
+[RECEIVED:SUCCESS]
+msg from:128.205.36.46
+[msg]:HI! HOW ARE YOU?
+[RECEIVED:END]
+[BLOCK:ERROR]
+[BLOCK:END]
+[BLOCK:SUCCESS]
+[BLOCK:END]
+[UNBLOCK:SUCCESS]
+[UNBLOCK:END]
+[BROADCAST:SUCCESS]
+[BROADCAST:END]
+[EXIT:SUCCESS]
+[EXIT:END]
